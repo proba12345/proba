@@ -16,7 +16,7 @@ public class Prodavnica extends JFrame{
         double ch, ZaVrakanjeF;
  
     public Prodavnica(){
-        setTitle("POS # 1:Mehmet Alce ");
+        setTitle("POS # 1:Mehmet Alce123456 ");
         setSize(600,500);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
          
